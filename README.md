@@ -7,6 +7,13 @@ _________________________________________________________
 ***Just a simple open-source multitool for OSINT.***
 ________________________________________________________
 
+***👀How to run and use Package:***
+- First of all, you need to have python from https://www.python.org/ running on your computer.
+- After installing python, open CMD (command  prompt) and type `pip install colorama` and press enter.
+- After installing colorama, type `pip install requests` and press enter.
+- After installing everything, run the `main.py` file.
+- To access the links, hold `ctrl` and click on the link.
+
 ****⭐Features:****
 - 👁️****IP loggers****
 - ⛰️****Image search****
