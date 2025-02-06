@@ -5,7 +5,7 @@ _________________________________________________________
 
 # 🟥Project Package
 ***Just a simple open-source multitool for OSINT.***
-________________________________________________________
+_________________________________________________________
 
 ***👀How to run and use Package:***
 - First of all, you need to have python from https://www.python.org/ running on your computer.
@@ -13,6 +13,7 @@ ________________________________________________________
 - After installing colorama, type `pip install requests` and press enter.
 - After installing everything, run the `main.py` file.
 - To access the links, hold `ctrl` and click on the link.
+  ________________________________________________________
 
 ****⭐Features:****
 - 👁️****IP loggers****
@@ -23,7 +24,7 @@ ________________________________________________________
 - 📸****Instagram viewer****
 - 🛰️****Facebook viewer****
 - 🌙***ETC . . .***
-_________________________________________________________
+__________________________________________________________
 
 # License: GPLv3
 ****Project created by: untitled-guy****
